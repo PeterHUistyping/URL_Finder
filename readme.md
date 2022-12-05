@@ -11,3 +11,15 @@ import requests
 from bs4 import BeautifulSoup
 # Beautiful Soup(bs4) is a Python library for pulling data out of HTML and XML files. 
 ```
+
+## Go
+Using goquery
+### Dependencies
+Type it in the terminal:
+```
+go get github.com/PuerkitoBio/goquery
+```
+import
+```
+"github.com/PuerkitoBio/goquery"
+```
